@@ -9,13 +9,13 @@
 ![Versión](https://img.shields.io/badge/versión-1.0.0-pink)  
 ![Estado](https://img.shields.io/badge/estado-en%20prototipo-cyan)  
 
-> Nuestro proyecto es un robot equipado con una garra que por medio de una inteligencia artificial es capaz de recoger y clasificar los residuos encontrados en los cerros de Bogotá, esto se hace con el objetivo de reducir la probabilidad de incendios en estos lugares.
+> Nuestro proyecto es un robot equipado con una garra que por medio de una inteligencia artificial es capaz de recoger y clasificar los residuos encontrados en los cerros de Bogotá mientras a su vez, se utiliza como una herramienta para el aprendizaje sobre los residuos y sus consecuencias en el medio ambiente.
 
 ---
 
 ## 🎯 Objetivo del Proyecto
 
-Diseñar un prototipo de robot autónomo que recorra los senderos de los cerros orientales de Bogotá, identificando, recolectando y almacenando residuos según su clasificación. Su implementación ayudará a reducir la acumulación de basura, mitigar el riesgo de incendios y contribuir a la conservación del ecosistema, promoviendo una ciudad más limpia y segura para la comunidad. 
+Diseñar y desarrollar un prototipo de robot controlado mediante una aplicación móvil con integración de inteligencia artificial, que permita a los usuarios identificar y clasificar distintos tipos de residuos, al tiempo que fomente el aprendizaje sobre los impactos ambientales que estos generan en los cerros orientales de Bogotá.
 
 ---
 
@@ -62,7 +62,7 @@ Apps 📱:
 - Aplicación realizada en HTML
 
 **Inteligencia Artificial**
-- Teachable Machine
+- Google Collab
 
 **Otras herramientas:**
 - OneShape/Solid Works/AutoCAD (Diseño)
