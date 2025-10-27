@@ -26,7 +26,7 @@ Diseñar y desarrollar un prototipo de robot controlado mediante una aplicación
 🔗 Drive con videos del funcionamiento: [https://drive.google.com/drive/folders/1kygynffuBIELyQWdxBNyv3GQxGHv8OLA?usp=sharing](https://drive.google.com/drive/folders/1kygynffuBIELyQWdxBNyv3GQxGHv8OLA?usp=sharing)
 
 
-🔗 IP para entrar al controlador: 172.21.10.193
+🔗 IP para entrar al controlador: 172.21.10.193 (Copiar IP en navegador de preferencia)
 
 ### 📸 Construcción
 
