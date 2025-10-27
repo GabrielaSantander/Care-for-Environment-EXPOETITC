@@ -55,8 +55,7 @@ Paginas 📱:
 
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/04db49ca-c3f2-4a93-9ba0-afcdf72bfc50" />
 
-> Imagenes de las apps, primera imagen app en pagina web y segunda imagen app independiente
-
+> Imagenes de las paginas, primera imagen en pagina web y segunda imagen ip
 ---
 
 ## 🧰 Tecnologías Utilizadas
