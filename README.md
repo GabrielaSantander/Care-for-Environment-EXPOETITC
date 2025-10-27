@@ -21,10 +21,12 @@ Diseñar y desarrollar un prototipo de robot controlado mediante una aplicación
 
 ## 🧪 Prototipo
 
-🔗 Pagina para prueba de IA: [https://teachablemachine.withgoogle.com/models/Hc0lmrAVy](https://teachablemachine.withgoogle.com/models/Hc0lmrAVy)
+🔗 Pagina para uso de IA: [https://68ff61643dc01cf66f9a0770--proyecto-cae.netlify.app/](https://68ff61643dc01cf66f9a0770--proyecto-cae.netlify.app/).
 
 🔗 Drive con videos del funcionamiento: [https://drive.google.com/drive/folders/1kygynffuBIELyQWdxBNyv3GQxGHv8OLA?usp=sharing](https://drive.google.com/drive/folders/1kygynffuBIELyQWdxBNyv3GQxGHv8OLA?usp=sharing)
 
+
+🔗 IP para entrar al controlador: 172.21.10.193
 
 ### 📸 Construcción
 
