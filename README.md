@@ -32,7 +32,8 @@ Diseñar y desarrollar un prototipo de robot controlado mediante una aplicación
 
 Robot 🤖:
 
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/19c91660-6460-4b4a-8a75-482dac4496fc" />
+<img width="691" height="575" alt="Captura de pantalla 2025-10-27 073152" src="https://github.com/user-attachments/assets/6a543bd4-417e-4f88-ac32-fb998d89387e" />
+
 
 > Imagen de la ultima versión del robot
 
@@ -46,9 +47,10 @@ Garra ⚙️:
 
 ---
 
-Apps 📱:
+Paginas 📱:
 
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/2cba495c-184f-4c17-851f-c73a999b12c8" />
+<img width="1822" height="902" alt="image" src="https://github.com/user-attachments/assets/42eabdf0-286d-49c1-8301-0d9248017a00" />
+
 
 
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/04db49ca-c3f2-4a93-9ba0-afcdf72bfc50" />
